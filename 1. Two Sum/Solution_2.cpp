@@ -9,7 +9,7 @@
 std::vector<int> twoSum2(std::vector<int>& nums, int target) {
 	std::vector<int> r;
 	std::unordered_map<int, int> temp;
-	for (int i = 0; nums.size(); i++)
+	for (int i = 0; i < nums.size(); i++)
 	{
 		int v = target - nums.at(i);
 
