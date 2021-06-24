@@ -4,6 +4,7 @@ LeetCode
 ### LeetCode Algorithm
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](https://github.com/superpavelka/leetcode/blob/main/8.%20String%20to%20Integer%20(atoi)/Solution2.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](https://github.com/superpavelka/leetcode/blob/main/7.%20Reverse%20Integer/Solution_1.cpp)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](https://github.com/superpavelka/leetcode/blob/main/6.%20ZigZag%20Conversion/Solution_cycleLen.cpp)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [C++](https://github.com/superpavelka/leetcode/blob/main/5.%20Longest%20Palindromic%20Substring/Solution_1.cpp)|Medium|
