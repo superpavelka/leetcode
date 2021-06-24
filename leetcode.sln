@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6. ZigZag Conversion", "6. 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7. Reverse Integer", "7. Reverse Integer\7. Reverse Integer.vcxproj", "{C5250864-A038-497C-B63F-5A8096F14572}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8. String to Integer (atoi)", "8. String to Integer (atoi)\8. String to Integer (atoi).vcxproj", "{8E9DEE63-F23E-4D99-91DD-51926E929DF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{C5250864-A038-497C-B63F-5A8096F14572}.Release|x64.Build.0 = Release|x64
 		{C5250864-A038-497C-B63F-5A8096F14572}.Release|x86.ActiveCfg = Release|Win32
 		{C5250864-A038-497C-B63F-5A8096F14572}.Release|x86.Build.0 = Release|Win32
+		{8E9DEE63-F23E-4D99-91DD-51926E929DF8}.Debug|x64.ActiveCfg = Debug|x64
+		{8E9DEE63-F23E-4D99-91DD-51926E929DF8}.Debug|x64.Build.0 = Debug|x64
+		{8E9DEE63-F23E-4D99-91DD-51926E929DF8}.Debug|x86.ActiveCfg = Debug|Win32
+		{8E9DEE63-F23E-4D99-91DD-51926E929DF8}.Debug|x86.Build.0 = Debug|Win32
+		{8E9DEE63-F23E-4D99-91DD-51926E929DF8}.Release|x64.ActiveCfg = Release|x64
+		{8E9DEE63-F23E-4D99-91DD-51926E929DF8}.Release|x64.Build.0 = Release|x64
+		{8E9DEE63-F23E-4D99-91DD-51926E929DF8}.Release|x86.ActiveCfg = Release|Win32
+		{8E9DEE63-F23E-4D99-91DD-51926E929DF8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
