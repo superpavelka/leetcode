@@ -4,7 +4,7 @@ LeetCode
 ### LeetCode Algorithm
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](https://github.com/superpavelka/leetcode/tree/main/9.%20Palindrome%20Number/Solution2.cpp)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [C++](https://github.com/superpavelka/leetcode/tree/main/9.%20Palindrome%20Number/Solution_2.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [C++](https://github.com/superpavelka/leetcode/blob/main/8.%20String%20to%20Integer%20(atoi)/Solution2.cpp)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [C++](https://github.com/superpavelka/leetcode/blob/main/7.%20Reverse%20Integer/Solution_1.cpp)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [C++](https://github.com/superpavelka/leetcode/blob/main/6.%20ZigZag%20Conversion/Solution_cycleLen.cpp)|Easy|
